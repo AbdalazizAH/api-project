@@ -1,0 +1,12 @@
+# requirements.txt
+
+
+sqlalchemy
+fastapi
+python-dotenv
+supabase
+psycopg2-binary
+python-multipart
+pydantic[email]
+passlib
+PyJWT
